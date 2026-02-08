@@ -41,8 +41,6 @@ Rank: 91 / 1090
 
 Leaderboard: Top ~9%
 
-Successfully cleared the Kaggle assessment round
-
 Files
 notebook.ipynb   - Model training and evaluation
 submission.csv  - Final prediction file
