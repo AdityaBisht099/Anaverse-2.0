@@ -7,7 +7,7 @@ This project was built as part of the Celebal AnaVerse 2.0 Data Science Hiring C
 
 Problem Statement
 
-Given time-stamped sensor data, predict whether each record represents:
+Given time-stamped sensor data, predict whether each record represents: 
 
 0 → Normal behavior
 
